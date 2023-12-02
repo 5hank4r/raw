@@ -1,4 +1,4 @@
-# This is a web enemuration script written by Anish (0xUN7H1NK4BLE)
+# 
 This script will perform following task:
 1. Detect the technology used.
 2. Search exploit for used technology.
